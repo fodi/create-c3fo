@@ -1,0 +1,34 @@
+{
+  "name": "create-c3fo",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "create-c3fo": "index.js"
+  },
+  "files": [
+    "index.js",
+    "github.js",
+    "LICENSE"
+  ],
+  "keywords": [
+    "construct 3",
+    "construct 2",
+    "plugins",
+    "themes",
+    "templates",
+    "game development",
+    "c3fo"
+  ],
+  "author": "Luan Himmlisch",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "change-case": "^5.4.4",
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0",
+    "https": "^1.0.0",
+    "inquirer": "^12.4.2",
+    "ora": "^8.2.0",
+    "tar": "^7.4.3"
+  }
+}
