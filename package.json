@@ -1,7 +1,7 @@
 {
   "name": "create-c3fo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generates a new Construct 3 Framework project",
   "bin": {
     "create-c3fo": "index.js"
   },
