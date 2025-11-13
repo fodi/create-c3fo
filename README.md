@@ -30,5 +30,5 @@ npm run dev
 
 This CLI tool internally fetches and updates, with your information, the starter templates of your choosing:
 
-- [Starter for plugin & addons](github.com/C3Framework/framework)
+- [Starter for plugin & addons](https://github.com/C3Framework/framework)
 - [Starter for themes](https://github.com/C3Framework/template-theme)
